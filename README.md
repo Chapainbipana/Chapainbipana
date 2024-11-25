@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bipana Chapain</h1>
 
-- 🔭 **Currently exploring Laravel and Python**
+- 🔭 **Currently exploring Laravel **
 - 🌱 **Learning Java, Database Management,Java,DSA, PHP, and Laravel**
 - 📫 How to reach me: [chapai.bipana65@gmail.com](mailto:chapai.bipana65@gmail.com)
 
